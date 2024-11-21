@@ -62,7 +62,7 @@ button {
   
   .text1 {
     display: block;
-    background:  url("/pictures/iphone16pro.jpg");
+    background:  url("./pictures/iphone16pro.jpg");
     min-height: 90vh;
     width: 100vw;
     background-size: cover;
@@ -121,7 +121,7 @@ button {
   
   .text2{
     display: block;
-    background: url("/pictures/iphone16.jpg");
+    background: url("./pictures/iphone16.jpg");
     min-height: 95vh;
     width: 100vw;
     background-size: cover;
@@ -167,7 +167,7 @@ button {
   
   .macbook {
     display: block;
-    background:  url("/pictures/macbook\ pro.jpg");
+    background:  url("./pictures/macbook\ pro.jpg");
     min-height: 95vh;
     width: 100vw;
     background-size: cover;
@@ -274,7 +274,7 @@ button {
 }
 
 .promo1 {
-  background-image: url(/pictures/macmini.jpg);
+  background-image: url(./pictures/macmini.jpg);
   background-position-x: center;
   height: 560px;
 
@@ -287,25 +287,25 @@ button {
 }
 
 .promo3 {
-  background-image: url(/pictures/ipadmini.jpg);
+  background-image: url(./pictures/ipadmini.jpg);
   background-position-x: center;
   height: 560px;
 }
 
 .promo4 {
-  background-image: url(/pictures/airpods4.jpg);
+  background-image: url(./pictures/airpods4.jpg);
   background-position-x: center;
   height: 560px;
 }
 
 .promo5 {
-  background-image: url(/pictures/watch.jpg);
+  background-image: url(./pictures/watch.jpg);
   background-position-x: center;
   height: 560px;
 }
 
 .promo6 {
-  background-image: url(/pictures/trading.jpg);
+  background-image: url(./pictures/trading.jpg);
   background-position-x: center;
   height: 560px;
   
