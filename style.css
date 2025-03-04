@@ -281,7 +281,7 @@ button {
 }
 
 .promo2 {
-  background-image: url(/pictures/imac.jpg);
+  background-image: url(./pictures/imac.jpg);
   background-position-x: center;
   height: 560px;
 }
